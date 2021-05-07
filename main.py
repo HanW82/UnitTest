@@ -21,3 +21,6 @@ if __name__ == '__main__':
 # 324324324
 # test change 1
 # create new function - new branch is needed
+
+def add (x,y):
+    return x + y
